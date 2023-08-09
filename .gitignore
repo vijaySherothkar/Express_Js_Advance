@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+
+# MongoDB data directory
+data/
+
+# macOS hidden files
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# Compiled binary addons (usually compiled during npm install)
+build/
